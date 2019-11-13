@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_ccw1547_hell.helo user" name="x_snc_ccw1547_hell.helo user">1dfb8346248d00107f44604079e6ab1b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:00:12</sys_created_on>
+        <sys_id>95fb8346248d00107f44604079e6ab1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1dfb8346248d00107f44604079e6ab1b</sys_name>
+        <sys_package display_value="ccw1547 Hello World" source="x_snc_ccw1547_hell">98abcb06248d00107f44604079e6abcf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ccw1547 Hello World">98abcb06248d00107f44604079e6abcf</sys_scope>
+        <sys_update_name>sys_embedded_help_role_95fb8346248d00107f44604079e6ab1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:00:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
